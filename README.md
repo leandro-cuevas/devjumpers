@@ -309,15 +309,15 @@ CREAR UNA TABLA
 
     NOMBRE                        GITHUB
 
-María Arteaga           https://github.com/maryjse
+    María Arteaga           https://github.com/maryjse
 
-Marcelo Taborda         https://github.com/Marcelo-Taborda
+    Marcelo Taborda         https://github.com/Marcelo-Taborda
 
-Lourdes Ávalos          https://github.com/LouAvalos
+    Lourdes Ávalos          https://github.com/LouAvalos
 
-Damián Coronel          https://github.com/Damsh-bit
+    Damián Coronel          https://github.com/Damsh-bit
 
-Camila Ríos             https://github.com/camilarios01
+    Camila Ríos             https://github.com/camilarios01
 
 
 COLABORADORES
